@@ -60,13 +60,24 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Oficina.Dominio\Oficina.Dominio.csproj">
+      <Project>{24ab4e46-6727-4e90-ad78-b30e12020853}</Project>
+      <Name>Oficina.Dominio</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Oficina.Repositorios.SistemaArquivo\Oficina.Repositorios.SistemaArquivo.csproj">
       <Project>{9AAEE64B-0834-42C5-8277-0E17E34B8A9D}</Project>
       <Name>Oficina.Repositorios.SistemaArquivo</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Dados\Cor.txt" />
+    <Content Include="bin\Debug\Dados\Marca.txt" />
+    <Content Include="bin\Debug\Dados\Modelo.xml" />
+    <Content Include="bin\Debug\Dados\Veiculo.xml" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

@@ -1,20 +1,34 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Oficina.Repositorios.SistemaArquivo;
+﻿using Oficina.Repositorios.SistemaArquivo;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Oficina.Repositorios.SistemaArquivo.Tests
 {
     [TestClass()]
     public class CorRepositorioTests
     {
+        private CorRepositorio corRepositorio = new CorRepositorio();
+
         [TestMethod()]
         public void ObterTest()
         {
-            Assert.Fail();
+            var cores = corRepositorio.Obter();
+
+            foreach (var cor in cores)
+            {
+                Console.WriteLine($"{cor.Id} - {cor.Nome}");
+            }
+        }
+
+        [TestMethod()]
+        public void ObterPorIdTest()
+        {
+            var cor = corRepositorio.Obter(1);
+
+            Assert.AreEqual(cor.Nome, "Branco");
+
+            cor = corRepositorio.Obter(7);
+            Assert.IsNull(cor);
         }
     }
 }

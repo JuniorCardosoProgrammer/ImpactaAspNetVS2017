@@ -1,0 +1,9 @@
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivo\bin\Debug\Oficina.Repositorios.SistemaArquivo.dll
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivo\bin\Debug\Oficina.Repositorios.SistemaArquivo.pdb
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivo\obj\Debug\Oficina.Repositorios.SistemaArquivo.csprojAssemblyReference.cache
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivo\obj\Debug\Oficina.Repositorios.SistemaArquivo.csproj.CoreCompileInputs.cache
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivo\obj\Debug\Oficina.Repositorios.SistemaArquivo.dll
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivo\obj\Debug\Oficina.Repositorios.SistemaArquivo.pdb
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivo\bin\Debug\Oficina.Dominio.dll
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivo\bin\Debug\Oficina.Dominio.pdb
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivo\obj\Debug\Oficina.Repositorios.SistemaArquivo.csproj.CopyComplete

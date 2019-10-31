@@ -1,0 +1,10 @@
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\bin\Debug\Asp.Net.Capitulo01.Frete.exe.config
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\bin\Debug\Asp.Net.Capitulo01.Frete.exe
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\bin\Debug\Asp.Net.Capitulo01.Frete.pdb
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\obj\Debug\Asp.Net.Capitulo01.Frete.csprojAssemblyReference.cache
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\obj\Debug\Asp.Net.Capitulo01.Frete.FreteForm.resources
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\obj\Debug\Asp.Net.Capitulo01.Frete.Properties.Resources.resources
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\obj\Debug\Asp.Net.Capitulo01.Frete.csproj.GenerateResource.cache
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\obj\Debug\Asp.Net.Capitulo01.Frete.csproj.CoreCompileInputs.cache
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\obj\Debug\Asp.Net.Capitulo01.Frete.exe
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Frete\obj\Debug\Asp.Net.Capitulo01.Frete.pdb

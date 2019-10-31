@@ -1,0 +1,10 @@
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\bin\Debug\Asp.Net.Capitulo01.Troco.exe.config
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\bin\Debug\Asp.Net.Capitulo01.Troco.exe
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\bin\Debug\Asp.Net.Capitulo01.Troco.pdb
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\obj\Debug\Asp.Net.Capitulo01.Troco.csprojAssemblyReference.cache
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\obj\Debug\Asp.Net.Capitulo01.Troco.Properties.Resources.resources
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\obj\Debug\Asp.Net.Capitulo01.Troco.Trocoform.resources
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\obj\Debug\Asp.Net.Capitulo01.Troco.csproj.GenerateResource.cache
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\obj\Debug\Asp.Net.Capitulo01.Troco.csproj.CoreCompileInputs.cache
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\obj\Debug\Asp.Net.Capitulo01.Troco.exe
+C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Asp.Net.Capitulo01.Troco\obj\Debug\Asp.Net.Capitulo01.Troco.pdb

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{68BA890D-CD72-41E3-8C9F-B04B1500BC64}</ProjectGuid>
+    <ProjectGuid>{AF19A4A5-9EC8-4675-8C57-31146ACC7B99}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ImpactaAspNet.Capitulo01.Variaveis</RootNamespace>
     <AssemblyName>ImpactaAspNet.Capitulo01.Variaveis</AssemblyName>

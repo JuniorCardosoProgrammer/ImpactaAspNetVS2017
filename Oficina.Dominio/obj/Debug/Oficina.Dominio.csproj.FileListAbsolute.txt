@@ -1,6 +1,11 @@
-C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\bin\Debug\Oficina.Dominio.dll
-C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\bin\Debug\Oficina.Dominio.pdb
-C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.csprojAssemblyReference.cache
-C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.csproj.CoreCompileInputs.cache
-C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.dll
-C:\Users\no3313\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\bin\Debug\Oficina.Dominio.dll
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\bin\Debug\Oficina.Dominio.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.csprojAssemblyReference.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.dll
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.pdb
+C:\Users\no3301\source\repos\ImpactaAspNetVS2017\ImpactaAspNetVS2017\Oficina.Dominio\bin\Debug\Oficina.Dominio.dll
+C:\Users\no3301\source\repos\ImpactaAspNetVS2017\ImpactaAspNetVS2017\Oficina.Dominio\bin\Debug\Oficina.Dominio.pdb
+C:\Users\no3301\source\repos\ImpactaAspNetVS2017\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\no3301\source\repos\ImpactaAspNetVS2017\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.dll
+C:\Users\no3301\source\repos\ImpactaAspNetVS2017\ImpactaAspNetVS2017\Oficina.Dominio\obj\Debug\Oficina.Dominio.pdb

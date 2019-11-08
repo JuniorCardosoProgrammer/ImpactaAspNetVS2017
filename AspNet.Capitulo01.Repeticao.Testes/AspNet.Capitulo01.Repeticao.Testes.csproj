@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F538BF57-C534-4CC7-9360-8E4A8883341F}</ProjectGuid>
+    <ProjectGuid>{503827C9-D034-45D1-94FA-DD02D0347020}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AspNet.Capitulo01.Repeticao.Testes</RootNamespace>

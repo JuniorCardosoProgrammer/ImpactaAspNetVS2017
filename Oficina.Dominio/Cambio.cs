@@ -2,9 +2,9 @@
 {
     public enum Cambio
     {
-        Manual = 10,
-        Automatico = 20,
-        Cvt = 30,
-        Automatizado = 40,
+        Manual = 1,
+        Automatico = 2, 
+        Cvt =3,
+        Automatizado = 4
     }
 }

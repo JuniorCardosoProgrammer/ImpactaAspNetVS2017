@@ -1,0 +1,221 @@
+﻿@using Oficina.WebPages;
+@{
+    var aplicacao = new VeiculoAplicacao();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cadastro de Veículos</title>
+    <style>
+        * {
+            font-family:'Century Gothic';
+            letter-spacing:1px;
+        }
+        html, body {
+            margin:0 auto;
+            padding:0;
+        }
+        section {
+            width: 700px;
+            height: 740px;
+            border: 1px solid #aaa;
+            border-radius: 15px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-top: -390px;
+            margin-left: -400px;
+            padding:0px 50px 50px 50px;
+        }
+        section h1 {
+            text-align:center;
+            border-bottom:1px solid #aaa;
+            padding-bottom:15px;
+        }
+        section form {
+            margin:0 auto;
+            text-align:center:
+        }
+        section form label {
+            text-transform: uppercase;
+            text-align: left;
+            display:block;
+            font-weight:bold;
+        }
+        section form select,
+        section form input[type="text"],
+        section form textarea{
+            width:100%;
+            margin:15px 0;
+            padding:10px 10px;
+            border-radius:5px;
+        }
+        section form input[type="text"] {
+            border:1px solid #aaa;
+        }
+        .coluna {
+            width: 35%;
+            float: left;
+            padding: 10px;
+            margin: 25px;
+        }
+        .coluna:first-child {
+            border-right:1px solid #aaa;
+            padding-left:30px;
+        }
+        footer {
+            clear:both;
+            text-align:center;
+            border-top:1px solid #aaa;
+            padding:20px 0;
+        }
+        footer input[type="submit"] {
+            padding:20px 50px;
+            border:1px solid #aaa;
+            border-radius:5px;
+            background:#922;
+            font-weight:bold;
+            color:#fff;
+            text-transform:uppercase;
+        }
+        #mensagemErro {
+            height: 40px;
+            background: linear-gradient(#dc3545, #ba1323);
+            margin-bottom: 10px;
+            color: #fff;
+            text-align: center;
+            vertical-align: middle;
+            line-height: 40px;
+            font-weight: bold;
+            text-shadow:1px 1px 3px #500;
+        }
+    </style>
+</head>
+<body>
+    @if (IsPost)
+    {
+        aplicacao.Gravar();
+
+        if (string.IsNullOrEmpty(aplicacao.MensagemErro))
+        {
+            Response.Redirect("Veiculo");
+        }
+        else
+        {
+            <div id="mensagemErro">@aplicacao.MensagemErro</div>
+        }
+    }
+    <section>
+        <header>
+            <h1>Cadastro de Veículos</h1>
+        </header>
+        <!--<hr />-->
+
+        <form method="post">
+
+            <div class="coluna">
+
+                <label for="marca">Marca: </label>
+                <select onchange="obterModelos(this.value)" id="marca" name="marca">
+                    <option value="">Selecione</option>
+                    <!-- para forçar o intellisense basta usar o atalho ctrl + barra de espaço -->
+                    @foreach (var marca in aplicacao.Marcas)
+                    {
+                        <option value="@marca.Id"
+                                selected="@Convert.ToBoolean(marca.Id.ToString() == aplicacao.MarcaSelecionada)">
+                            @marca.Nome
+                        </option>
+                    }
+                </select>
+
+                <br />
+
+                <label for="modelo">Modelo: </label>
+                <select id="modelo" name="modelo">
+                    <option value="">Selecione</option>
+                    <!-- para forçar o intellisense basta usar o atalho ctrl + barra de espaço -->
+                    @foreach (var modelo in aplicacao.Modelos)
+                    {
+                        <option value="@modelo.Id">@modelo.Nome</option>
+                    }
+                </select>
+
+                <br />
+
+                <label for="cores">Cores: </label>
+                <select id="cores" name="cores">
+                    <option value="">Selecione</option>
+                    <!-- para forçar o intellisense basta usar o atalho ctrl + barra de espaço -->
+                    @foreach (var cor in aplicacao.Cores)
+                    {
+                        <option value="@cor.Id">@cor.Nome</option>
+                    }
+                </select>
+
+                <br />
+
+                <label for="combustivel">Combustível: </label>
+                <select id="combustivel" name="combustivel">
+                    <option value="">Selecione</option>
+                    <!-- para forçar o intellisense basta usar o atalho ctrl + barra de espaço -->
+                    @foreach (var combustivel in aplicacao.Combustiveis)
+                    {
+                        <option value="@((int)combustivel)">@combustivel</option>
+                    }
+                </select>
+
+                <br />
+
+                <label for="cambio">Cambio: </label>
+                <select id="cambio" name="cambio">
+                    <option value="">Selecione</option>
+                    <!-- para forçar o intellisense basta usar o atalho ctrl + barra de espaço -->
+                    @foreach (var cambio in aplicacao.Cambios)
+                    {
+                        <option value="@((int)cambio)">@cambio</option>
+                    }
+                </select>
+
+                <br />
+
+                <label for="carroceria">Carroceria: </label>
+                <select id="carroceria" name="carroceria">
+                    <option value="">Selecione</option>
+                    <!-- para forçar o intellisense basta usar o atalho ctrl + barra de espaço -->
+                    @foreach (var carroceria in aplicacao.TipoCarroceria)
+                    {
+                        <option value="@((int)carroceria)">@carroceria</option>
+                    }
+                </select>
+            </div>
+
+            <div class="coluna">
+
+                <label for="placa">Placa</label>
+                <input type="text" id="placa" name="placa" placeholder="Digite a Placa..." />
+
+                <label for="ano">Ano</label>
+                <input type="text" id="ano" name="ano" placeholder="Digite o Ano..." />
+
+                <label for="observacao">Observação</label>
+                <textarea id="observacao" name="observacao" placeholder="Digite a Observacao..." cols="22" rows="13"></textarea>
+            </div>
+            <footer>
+                <input type="submit" value="Gravar" />
+            </footer>
+        </form>
+    </section>
+
+    <script type="text/javascript">
+        function obterModelos(marcaId) {
+            const nomePagina = document.location.pathname;
+
+            document.location.href = nomePagina + "?marcaId=" + marcaId;
+        }
+    </script>
+
+</body>
+</html>

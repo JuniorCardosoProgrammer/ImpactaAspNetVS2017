@@ -54,6 +54,7 @@ namespace Oficina.Repositorios.SistemaArquivos
                     marca = new Marca();
                     marca.Id = linhaId;
                     marca.Nome = propriedades[1];
+                    //marca.TipoVeiculo = propriedades[2].ToString();
 
                     break;
                 }

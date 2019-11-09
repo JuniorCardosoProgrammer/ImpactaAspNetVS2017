@@ -52,6 +52,7 @@
     <Compile Include="QuantidadeEixo.cs" />
     <Compile Include="TipoCarroceria.cs" />
     <Compile Include="TipoQuadro.cs" />
+    <Compile Include="TipoVeiculo.cs" />
     <Compile Include="UF.cs" />
     <Compile Include="Veiculo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

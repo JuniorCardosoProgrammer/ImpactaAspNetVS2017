@@ -30,7 +30,7 @@ namespace Oficina.Repositorios.SistemaArquivos
             serializador.Serialize(registro, veiculo);
 
             //Remanejamos este diretório para dentro do método Gravar(), pois só precisamos acessar o arquivo xml quando vamos gravar o objeto.
-            XDocument arquivoXml = XDocument.Load(CaminhoArquivo); // Para acessar um arquivo Xml.
+            arquivoXml = XDocument.Load(CaminhoArquivo); // Para acessar um arquivo Xml.
 
             arquivoXml.Root.Add(XElement.Parse(registro.ToString()));
             arquivoXml.Save(CaminhoArquivo);

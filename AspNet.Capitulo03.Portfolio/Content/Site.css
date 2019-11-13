@@ -31,3 +31,12 @@ textarea {
     color: #fff;
     text-shadow: 1px 1px 4px #222;
 }
+.img-responsive {
+    width: 250px;
+    height: 245px;
+    /*padding: 5px;*/
+    margin: 20px;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #999;
+}

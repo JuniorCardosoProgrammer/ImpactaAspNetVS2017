@@ -37,7 +37,7 @@
             @Html.DisplayFor(modelItem => item.Cidade)
         </td>
         <td>
-            <img src="@item.CaminhoImagem" alt="@item.CaminhoImagem" class="img-thumbnail" />
+            <img src="@item.CaminhoImagem" alt="@item.CaminhoImagem" class="img-thumbnail" style=" width:100px; height:100px;" />
         </td>
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |

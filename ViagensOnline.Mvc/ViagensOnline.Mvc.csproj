@@ -159,6 +159,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Mapeamento\Mapeamento.cs" />
     <Compile Include="Models\DestinoViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -167,6 +168,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Imagens\Destinos\torre-eiffel-grid-m.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -203,6 +205,9 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Destinos\Index.cshtml" />
     <Content Include="Views\Destinos\Create.cshtml" />
+    <Content Include="Views\Destinos\Edit.cshtml" />
+    <Content Include="Views\Destinos\Delete.cshtml" />
+    <Content Include="Views\Destinos\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

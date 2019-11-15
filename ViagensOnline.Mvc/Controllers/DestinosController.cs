@@ -1,8 +1,14 @@
-﻿using System.Data.Entity;
+﻿using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Data.Entity;
+using System.IO;
 using System.Linq;
 using System.Net;
+using System.Web;
 using System.Web.Mvc;
 using ViagensOnline.Dominio;
+using ViagensOnline.Mvc.Models;
 using ViagensOnline.Repositorios.SqlServer;
 
 namespace ViagensOnline.Mvc.Controllers
@@ -11,11 +17,38 @@ namespace ViagensOnline.Mvc.Controllers
     {
         private ViagensOnlineDbContext db = new ViagensOnlineDbContext();
 
+        private string caminhoImagensDestinos = ConfigurationManager.AppSettings["caminhoImagensDestinos"];
         // GET: Destinos
         public ActionResult Index()
         {
-            return View(db.Destinos.ToList());
+            return View(Mapear(db.Destinos.ToList()));
         }
+
+        private List<DestinoViewModel> Mapear(List<Destino> destinos)
+        {
+            var viewModels = new List<DestinoViewModel>();
+
+            foreach (var destino in destinos)
+            {
+                viewModels.Add(Mapear(destino));
+            }
+
+            return viewModels;
+        }
+
+        private DestinoViewModel Mapear(Destino destino)
+        {
+            var viewModel = new DestinoViewModel();
+
+            viewModel.CaminhoImagem = Path.Combine(caminhoImagensDestinos, destino.NomeImagem);
+            viewModel.Cidade = destino.Cidade;
+            viewModel.Id = destino.Id;
+            viewModel.Nome = destino.Nome;
+            viewModel.Pais = destino.Pais;
+
+            return viewModel;
+        }
+
 
         // GET: Destinos/Details/5
         public ActionResult Details(int? id)
@@ -29,7 +62,7 @@ namespace ViagensOnline.Mvc.Controllers
             {
                 return HttpNotFound();
             }
-            return View(destino);
+            return View(Mapear(destino));
         }
 
         // GET: Destinos/Create
@@ -43,19 +76,49 @@ namespace ViagensOnline.Mvc.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,Nome,Pais,Cidade,NomeImagem")] Destino destino)
+        public ActionResult Create(DestinoViewModel viewModel)
         {
+            if (viewModel.ArquivoFoto == null)
+            {
+                ModelState.AddModelError("", "É necessário enviar um arquivo de imagem.");
+            }
+
             if (ModelState.IsValid)
             {
-                db.Destinos.Add(destino);
+                SalvarFoto(viewModel.ArquivoFoto);
+
+                db.Destinos.Add(Mapear(viewModel));
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
 
-            return View(destino);
+            return View(viewModel);
+        }
+
+        private void SalvarFoto(HttpPostedFileBase arquivoFoto)
+        {
+            var caminhoVirtual = Path.Combine(caminhoImagensDestinos, arquivoFoto.FileName);
+
+            var caminhoFisico = Request.MapPath(caminhoVirtual);
+
+            arquivoFoto.SaveAs(caminhoFisico);
+        }
+
+        private Destino Mapear(DestinoViewModel viewModel)
+        {
+            var destino = new Destino();
+
+            destino.NomeImagem = viewModel.ArquivoFoto.FileName;
+            destino.Cidade = viewModel.Cidade;
+            destino.Id = viewModel.Id;
+            destino.Nome = viewModel.Nome;
+            destino.Pais = viewModel.Pais;
+
+            return destino;
         }
 
         // GET: Destinos/Edit/5
+        // no exemplo int?, a interrrogação significa que o parâmetro pode entrar como null.
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -67,7 +130,7 @@ namespace ViagensOnline.Mvc.Controllers
             {
                 return HttpNotFound();
             }
-            return View(destino);
+            return View(Mapear(destino));
         }
 
         // POST: Destinos/Edit/5
@@ -75,15 +138,28 @@ namespace ViagensOnline.Mvc.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,Nome,Pais,Cidade,NomeImagem")] Destino destino)
+        public ActionResult Edit(DestinoViewModel viewModel)
         {
             if (ModelState.IsValid)
             {
-                db.Entry(destino).State = EntityState.Modified;
+                //Foi encontrado o objeto no banco.
+                var destino = db.Destinos.Find(viewModel.Id);
+
+                //Mapeamento do Entity: Corrigindo os valores da tela (viewmodel) para o banco.
+                db.Entry(destino).CurrentValues.SetValues(viewModel);
+                //db.Entry(destino).State = EntityState.Modified;
+
+                if (viewModel.ArquivoFoto != null)
+                {
+                    SalvarFoto(viewModel.ArquivoFoto);
+                    destino.NomeImagem = viewModel.ArquivoFoto.FileName;
+                }
+
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            return View(destino);
+
+            return View(viewModel);
         }
 
         // GET: Destinos/Delete/5
@@ -98,7 +174,7 @@ namespace ViagensOnline.Mvc.Controllers
             {
                 return HttpNotFound();
             }
-            return View(destino);
+            return View(Mapear(destino));
         }
 
         // POST: Destinos/Delete/5

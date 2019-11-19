@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Interfaces\I.Tarefa.Repositorio.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Interfaces\I.Tarefa.Repositorio" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Servicos\" />
+  </ItemGroup>
+
+</Project>

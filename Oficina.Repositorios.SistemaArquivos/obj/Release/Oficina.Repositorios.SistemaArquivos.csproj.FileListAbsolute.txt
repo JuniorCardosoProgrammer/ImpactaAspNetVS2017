@@ -1,0 +1,9 @@
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivos\bin\Release\Oficina.Repositorios.SistemaArquivos.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivos\bin\Release\Oficina.Repositorios.SistemaArquivos.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivos\bin\Release\Oficina.Dominio.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivos\bin\Release\Oficina.Dominio.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivos\obj\Release\Oficina.Repositorios.SistemaArquivos.csprojAssemblyReference.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivos\obj\Release\Oficina.Repositorios.SistemaArquivos.csproj.CoreCompileInputs.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivos\obj\Release\Oficina.Repositorios.SistemaArquivos.csproj.CopyComplete
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivos\obj\Release\Oficina.Repositorios.SistemaArquivos.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Repositorios.SistemaArquivos\obj\Release\Oficina.Repositorios.SistemaArquivos.pdb

@@ -1,0 +1,10 @@
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\bin\Release\ImpactaAspNet.Capitulo01.Variaveis.exe.config
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\bin\Release\ImpactaAspNet.Capitulo01.Variaveis.exe
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\bin\Release\ImpactaAspNet.Capitulo01.Variaveis.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\obj\Release\AspNet.Capitulo01.Variaveis.csprojAssemblyReference.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\obj\Release\ImpactaAspNet.Capitulo01.Variaveis.Properties.Resources.resources
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\obj\Release\ImpactaAspNet.Capitulo01.Variaveis.VariaveisForm.resources
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\obj\Release\AspNet.Capitulo01.Variaveis.csproj.GenerateResource.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\obj\Release\AspNet.Capitulo01.Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\obj\Release\ImpactaAspNet.Capitulo01.Variaveis.exe
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ImpactaAspNet.Capitulo01.Variaveis\obj\Release\ImpactaAspNet.Capitulo01.Variaveis.pdb

@@ -1,0 +1,10 @@
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\bin\Release\AspNet.Capitulo01.Frete.exe.config
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\bin\Release\AspNet.Capitulo01.Frete.exe
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\bin\Release\AspNet.Capitulo01.Frete.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\obj\Release\AspNet.Capitulo01.Frete.csprojAssemblyReference.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\obj\Release\AspNet.Capitulo01.Frete.FreteForm.resources
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\obj\Release\AspNet.Capitulo01.Frete.Properties.Resources.resources
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\obj\Release\AspNet.Capitulo01.Frete.csproj.GenerateResource.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\obj\Release\AspNet.Capitulo01.Frete.csproj.CoreCompileInputs.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\obj\Release\AspNet.Capitulo01.Frete.exe
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Frete\obj\Release\AspNet.Capitulo01.Frete.pdb

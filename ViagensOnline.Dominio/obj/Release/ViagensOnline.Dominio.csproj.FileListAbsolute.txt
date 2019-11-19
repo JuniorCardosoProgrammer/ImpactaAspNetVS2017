@@ -1,0 +1,5 @@
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\bin\Release\ViagensOnline.Dominio.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\bin\Release\ViagensOnline.Dominio.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\obj\Release\ViagensOnline.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\obj\Release\ViagensOnline.Dominio.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\obj\Release\ViagensOnline.Dominio.pdb

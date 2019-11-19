@@ -1,0 +1,10 @@
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\bin\Release\AspNet.Capitulo01.Troco.exe.config
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\bin\Release\AspNet.Capitulo01.Troco.exe
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\bin\Release\AspNet.Capitulo01.Troco.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\obj\Release\AspNet.Capitulo01.Troco.csprojAssemblyReference.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\obj\Release\AspNet.Capitulo01.Troco.TrocoForm.resources
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\obj\Release\AspNet.Capitulo01.Troco.Properties.Resources.resources
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\obj\Release\AspNet.Capitulo01.Troco.csproj.GenerateResource.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\obj\Release\AspNet.Capitulo01.Troco.csproj.CoreCompileInputs.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\obj\Release\AspNet.Capitulo01.Troco.exe
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.Troco\obj\Release\AspNet.Capitulo01.Troco.pdb

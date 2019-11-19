@@ -1,0 +1,17 @@
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\AspNet.Capitulo01.VetoresColecoes.Testes.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\AspNet.Capitulo01.VetoresColecoes.Testes.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\obj\Release\AspNet.Capitulo01.VetoresColecoes.Testes.csprojAssemblyReference.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\obj\Release\AspNet.Capitulo01.VetoresColecoes.Testes.csproj.CoreCompileInputs.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\obj\Release\AspNet.Capitulo01.VetoresColecoes.Testes.csproj.CopyComplete
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\obj\Release\AspNet.Capitulo01.VetoresColecoes.Testes.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\AspNet.Capitulo01.VetoresColecoes.Testes\obj\Release\AspNet.Capitulo01.VetoresColecoes.Testes.pdb

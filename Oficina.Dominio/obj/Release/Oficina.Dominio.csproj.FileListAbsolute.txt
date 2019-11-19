@@ -1,0 +1,5 @@
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Dominio\bin\Release\Oficina.Dominio.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Dominio\bin\Release\Oficina.Dominio.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Dominio\obj\Release\Oficina.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Dominio\obj\Release\Oficina.Dominio.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Oficina.Dominio\obj\Release\Oficina.Dominio.pdb

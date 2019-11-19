@@ -1,0 +1,14 @@
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\bin\Release\ViagensOnline.Repositorios.SqlServer.dll.config
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\bin\Release\ViagensOnline.Repositorios.SqlServer.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\bin\Release\ViagensOnline.Repositorios.SqlServer.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\bin\Release\EntityFramework.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\bin\Release\ViagensOnline.Dominio.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\bin\Release\ViagensOnline.Dominio.pdb
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\bin\Release\EntityFramework.xml
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\obj\Release\ViagensOnline.Repositorios.SqlServer.csprojAssemblyReference.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\obj\Release\ViagensOnline.Repositorios.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\obj\Release\ViagensOnline.Repositorios.SqlServer.csproj.CopyComplete
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\obj\Release\ViagensOnline.Repositorios.SqlServer.dll
+C:\Users\no3301\source\repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Repositorios.SqlServer\obj\Release\ViagensOnline.Repositorios.SqlServer.pdb

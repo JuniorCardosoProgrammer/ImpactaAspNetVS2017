@@ -1,9 +1,9 @@
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\bin\Debug\netcoreapp2.2\Pessoal.Dominio.deps.json
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\bin\Debug\netcoreapp2.2\Pessoal.Dominio.dll
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\bin\Debug\netcoreapp2.2\Pessoal.Dominio.pdb
-C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\obj\Debug\netcoreapp2.2\Pessoal.Dominio.csprojAssemblyReference.cache
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\obj\Debug\netcoreapp2.2\Pessoal.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\obj\Debug\netcoreapp2.2\Pessoal.Dominio.AssemblyInfoInputs.cache
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\obj\Debug\netcoreapp2.2\Pessoal.Dominio.AssemblyInfo.cs
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\obj\Debug\netcoreapp2.2\Pessoal.Dominio.dll
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\obj\Debug\netcoreapp2.2\Pessoal.Dominio.pdb
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Dominio\obj\Debug\netcoreapp2.2\Pessoal.Dominio.csprojAssemblyReference.cache

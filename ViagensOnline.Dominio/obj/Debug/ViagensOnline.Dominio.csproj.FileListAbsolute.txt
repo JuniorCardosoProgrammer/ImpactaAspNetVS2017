@@ -1,6 +1,5 @@
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\bin\Debug\ViagensOnline.Dominio.dll
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\bin\Debug\ViagensOnline.Dominio.pdb
-C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\obj\Debug\ViagensOnline.Dominio.csprojAssemblyReference.cache
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\obj\Debug\ViagensOnline.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\obj\Debug\ViagensOnline.Dominio.dll
 C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\ViagensOnline.Dominio\obj\Debug\ViagensOnline.Dominio.pdb

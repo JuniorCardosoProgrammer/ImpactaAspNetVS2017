@@ -1,0 +1,77 @@
+21/11/2019 20:02:08	Este log contém informações sobre a operação do esquema importado no projeto 'Pessoal.Database.SqlServer' no computador '3P33_01' pelo usuário 'no3301'.
+21/11/2019 20:02:08	A importação do esquema de banco de dados foi iniciada.
+21/11/2019 20:02:13	Coletando opções de banco de dados
+21/11/2019 20:02:13	Coletando usuários
+21/11/2019 20:02:13	Coletando funções
+21/11/2019 20:02:13	Coletando funções de aplicativo
+21/11/2019 20:02:13	Coletando associações de função
+21/11/2019 20:02:13	Coletando grupos de arquivos
+21/11/2019 20:02:13	Coletando catálogos de texto completo
+21/11/2019 20:02:13	Coletando assemblies
+21/11/2019 20:02:13	Coletando certificados
+21/11/2019 20:02:13	Coletando chaves assimétricas
+21/11/2019 20:02:13	Coletando chaves simétricas
+21/11/2019 20:02:13	Coletando chaves simétricas criptografadas
+21/11/2019 20:02:13	Coletando esquemas
+21/11/2019 20:02:14	Coletando coleções de esquema XML
+21/11/2019 20:02:14	Coletando tipos de dados definidos pelo usuário
+21/11/2019 20:02:14	Coletando tipos definidos pelo usuário
+21/11/2019 20:02:14	Coletando tipos de tabela
+21/11/2019 20:02:14	Coletando chaves exclusivas para tipos de tabela
+21/11/2019 20:02:14	Coletando chaves primárias para tipos de tabela
+21/11/2019 20:02:14	Reunindo índices para tipos de tabela
+21/11/2019 20:02:14	Coletando restrições de verificação para tipos de tabela
+21/11/2019 20:02:14	Coletando restrições padrão para tipos de tabela
+21/11/2019 20:02:14	Coletando funções de partição
+21/11/2019 20:02:14	Coletando esquemas de partição
+21/11/2019 20:02:14	Coletando funções
+21/11/2019 20:02:14	Coletando funções criptografadas
+21/11/2019 20:02:14	Coletando agregações
+21/11/2019 20:02:14	Coletando procedimentos
+21/11/2019 20:02:14	Coletando procedimentos criptografados
+21/11/2019 20:02:14	Coletando tabelas
+21/11/2019 20:02:14	Coletando chaves primárias
+21/11/2019 20:02:15	Coletando restrições exclusivas
+21/11/2019 20:02:15	Coletando chaves estrangeiras
+21/11/2019 20:02:15	Coletando restrições padrão
+21/11/2019 20:02:15	Coletando restrições de verificação
+21/11/2019 20:02:15	Coletando exibições
+21/11/2019 20:02:15	Coletando exibições criptografadas
+21/11/2019 20:02:15	Coletando índices
+21/11/2019 20:02:15	Coletando estatísticas
+21/11/2019 20:02:15	Coletando listas de palavras irrelevantes de índice de texto completo
+21/11/2019 20:02:15	Coletando listas de propriedades de pesquisa
+21/11/2019 20:02:15	Coletando propriedades de pesquisa
+21/11/2019 20:02:15	Coletando índices de texto completo
+21/11/2019 20:02:15	Coletando índices de repositório de coluna
+21/11/2019 20:02:15	Coletando índices espaciais
+21/11/2019 20:02:15	Coletando índices XML
+21/11/2019 20:02:15	Reunindo índices XML Seletivos
+21/11/2019 20:02:15	Coletando gatilhos criptografados
+21/11/2019 20:02:15	Coletando gatilhos
+21/11/2019 20:02:15	Coletando gatilhos ddl criptografados e clr
+21/11/2019 20:02:15	Coletando gatilhos ddl
+21/11/2019 20:02:15	Coletando sinônimos
+21/11/2019 20:02:15	Coletando padrões
+21/11/2019 20:02:15	Coletando ligações uddt de restrições de dados
+21/11/2019 20:02:15	Coletando regras
+21/11/2019 20:02:15	Coletando ligações uddt de restrições de dados
+21/11/2019 20:02:15	Coletando tipos de mensagem
+21/11/2019 20:02:15	Coletando filas
+21/11/2019 20:02:15	Coletando contratos
+21/11/2019 20:02:15	Coletando serviços
+21/11/2019 20:02:15	Coletando notificações de eventos
+21/11/2019 20:02:15	Coletando ligações de serviço remoto
+21/11/2019 20:02:15	Coletando prioridades do agente
+21/11/2019 20:02:15	Coletando assinaturas
+21/11/2019 20:02:15	Coletando opções de compactação de dados
+21/11/2019 20:02:15	Coletando tipos de sequência
+21/11/2019 20:02:15	Coletando propriedades estendidas
+21/11/2019 20:02:15	Coletando credenciais
+21/11/2019 20:02:15	Coletando logons
+21/11/2019 20:02:15	Coletando auditorias de servidor
+21/11/2019 20:02:15	Examinando projeto para elementos duplicados
+21/11/2019 20:02:15	Processamento de elementos duplicados concluído
+21/11/2019 20:02:15	Importação do banco de dados concluída.
+21/11/2019 20:02:15	Um resumo da importação foi salvo no seguinte local: C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Database.SqlServer\Importar Logs de Esquema\Pessoal.Database.Sql_20191121110208.log.
+21/11/2019 20:02:15	Clique em Concluir para continuar...

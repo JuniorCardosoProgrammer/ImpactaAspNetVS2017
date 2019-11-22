@@ -21,7 +21,7 @@ namespace Pessoal.Repositorios.SqlServer.Testes
         {
             var tarefa = new Tarefa();
             tarefa.Nome = "Limpar a casa";
-            tarefa.Observacao = "Passar pano na casa toda";
+            tarefa.Observacoes = "Passar pano na casa toda";
             tarefa.Prioridade = Prioridade.Alta;
             tarefa.Concluida = true;
 
@@ -52,7 +52,7 @@ namespace Pessoal.Repositorios.SqlServer.Testes
 
             tarefa.Id = 1;
             tarefa.Nome = "Limpar a casa";
-            tarefa.Observacao = "Lavar Louça";
+            tarefa.Observacoes = "Lavar Louça";
             tarefa.Prioridade = Prioridade.Baixa;
             tarefa.Concluida = false;
 

@@ -1,0 +1,11 @@
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\bin\Debug\netcoreapp2.0\Pessoal.Mvc.deps.json
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\bin\Debug\netcoreapp2.0\Pessoal.Mvc.runtimeconfig.json
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\bin\Debug\netcoreapp2.0\Pessoal.Mvc.runtimeconfig.dev.json
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\bin\Debug\netcoreapp2.0\Pessoal.Mvc.dll
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\bin\Debug\netcoreapp2.0\Pessoal.Mvc.pdb
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\obj\Debug\netcoreapp2.0\Pessoal.Mvc.csprojAssemblyReference.cache
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\obj\Debug\netcoreapp2.0\Pessoal.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\obj\Debug\netcoreapp2.0\Pessoal.Mvc.AssemblyInfoInputs.cache
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\obj\Debug\netcoreapp2.0\Pessoal.Mvc.AssemblyInfo.cs
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\obj\Debug\netcoreapp2.0\Pessoal.Mvc.dll
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Pessoal.Mvc\obj\Debug\netcoreapp2.0\Pessoal.Mvc.pdb

@@ -1,0 +1,12 @@
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\bin\Debug\Loja.Dominio.dll.config
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\bin\Debug\Loja.Dominio.dll
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\bin\Debug\Loja.Dominio.pdb
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\obj\Debug\Loja.Dominio.csprojAssemblyReference.cache
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\obj\Debug\Loja.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\obj\Debug\Loja.Dominio.csproj.CopyComplete
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\obj\Debug\Loja.Dominio.dll
+C:\Users\no3301\Source\Repos\JuniorCardosoProgrammer\ImpactaAspNetVS2017\Loja.Dominio\obj\Debug\Loja.Dominio.pdb

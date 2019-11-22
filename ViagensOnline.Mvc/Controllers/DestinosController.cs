@@ -18,6 +18,7 @@ namespace ViagensOnline.Mvc.Controllers
         private ViagensOnlineDbContext db = new ViagensOnlineDbContext();
 
         private string caminhoImagensDestinos = ConfigurationManager.AppSettings["caminhoImagensDestinos"];
+
         // GET: Destinos
         public ActionResult Index()
         {

@@ -82,7 +82,7 @@ namespace Pessoal.Repositorios.SqlServer
             parametros.Add(new SqlParameter("@Nome", tarefa.Nome));
             parametros.Add(new SqlParameter("@Prioridade", tarefa.Prioridade));
             parametros.Add(new SqlParameter("@Concluida", tarefa.Concluida));
-            parametros.Add(new SqlParameter("@Observacoes", tarefa.Observacao));
+            parametros.Add(new SqlParameter("@Observacoes", tarefa.Observacoes));
 
             return parametros;
         }
@@ -119,7 +119,7 @@ namespace Pessoal.Repositorios.SqlServer
             tarefa.Id = Convert.ToInt32(registro[nameof(tarefa.Id)]);
             tarefa.Concluida = Convert.ToBoolean(registro["Concluida"]);
             tarefa.Nome = registro["Nome"].ToString();
-            tarefa.Observacao = Convert.ToString(registro["Observacoes"]);
+            tarefa.Observacoes = Convert.ToString(registro["Observacoes"]);
             tarefa.Prioridade = (Prioridade)Convert.ToInt32(registro["Prioridade"]);
 
             return tarefa;

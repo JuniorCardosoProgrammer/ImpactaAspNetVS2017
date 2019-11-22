@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Web;
 using ViagensOnline.Dominio;
 using ViagensOnline.Mvc.Models;
 
@@ -12,7 +9,7 @@ namespace ViagensOnline.Mvc.Mapeamento
     {
         private string caminhoImagensDestinos;
 
-        private List<DestinoViewModel> Mapear(List<Destino> destinos)
+        public List<DestinoViewModel> Mapear(List<Destino> destinos)
         {
             var viewModels = new List<DestinoViewModel>();
 
@@ -24,7 +21,7 @@ namespace ViagensOnline.Mvc.Mapeamento
             return viewModels;
         }
 
-        private DestinoViewModel Mapear(Destino destino)
+        public DestinoViewModel Mapear(Destino destino)
         {
             var viewModel = new DestinoViewModel();
 
@@ -37,7 +34,7 @@ namespace ViagensOnline.Mvc.Mapeamento
             return viewModel;
         }
 
-        private Destino Mapear(DestinoViewModel viewModel)
+        public Destino Mapear(DestinoViewModel viewModel)
         {
             var destino = new Destino();
 

@@ -4793,11 +4793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\no3301\\Source\\Repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Repositorios.SqlServer\\Pessoal.Repositorios.SqlServer.csproj",
+      "projectUniqueName": "C:\\Users\\no3301\\source\\repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Repositorios.SqlServer\\Pessoal.Repositorios.SqlServer.csproj",
       "projectName": "Pessoal.Repositorios.SqlServer",
-      "projectPath": "C:\\Users\\no3301\\Source\\Repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Repositorios.SqlServer\\Pessoal.Repositorios.SqlServer.csproj",
+      "projectPath": "C:\\Users\\no3301\\source\\repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Repositorios.SqlServer\\Pessoal.Repositorios.SqlServer.csproj",
       "packagesPath": "C:\\Users\\no3301\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\no3301\\Source\\Repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Repositorios.SqlServer\\obj\\",
+      "outputPath": "C:\\Users\\no3301\\source\\repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Repositorios.SqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4816,8 +4816,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\no3301\\Source\\Repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Dominio\\Pessoal.Dominio.csproj": {
-              "projectPath": "C:\\Users\\no3301\\Source\\Repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Dominio\\Pessoal.Dominio.csproj"
+            "C:\\Users\\no3301\\source\\repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Dominio\\Pessoal.Dominio.csproj": {
+              "projectPath": "C:\\Users\\no3301\\source\\repos\\JuniorCardosoProgrammer\\ImpactaAspNetVS2017\\Pessoal.Dominio\\Pessoal.Dominio.csproj"
             }
           }
         }

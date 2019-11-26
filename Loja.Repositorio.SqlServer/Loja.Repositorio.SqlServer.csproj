@@ -53,6 +53,7 @@
     <Compile Include="LojaDbContext.cs" />
     <Compile Include="ModelConfiguration\CategoriaConfiguration.cs" />
     <Compile Include="ModelConfiguration\ProdutoConfiguration.cs" />
+    <Compile Include="ModelConfiguration\ProdutoImagemConfiguration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

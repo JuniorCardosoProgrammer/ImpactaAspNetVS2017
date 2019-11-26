@@ -1,0 +1,16 @@
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\obj\Debug\Loja.Repositorios.SqlServer.csprojAssemblyReference.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\obj\Debug\Loja.Repositorios.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\bin\Debug\Loja.Repositorios.SqlServer.dll.config
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\bin\Debug\Loja.Repositorios.SqlServer.dll
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\bin\Debug\Loja.Repositorios.SqlServer.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\bin\Debug\Loja.Dominio.dll
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\bin\Debug\Loja.Dominio.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\obj\Debug\Loja.Repositorios.SqlServer.csproj.CopyComplete
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\obj\Debug\Loja.Repositorios.SqlServer.dll
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\obj\Debug\Loja.Repositorios.SqlServer.pdb
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\obj\Debug\Loja.Repositorios.SqlServer.Migrations.InitialCreate.resources
+C:\Users\vavelino\source\repos\ImpactaAspNetVS2017\Loja.Repositorios.SqlServer\obj\Debug\Loja.Repositorios.SqlServer.csproj.GenerateResource.cache
